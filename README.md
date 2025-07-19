@@ -4,11 +4,11 @@
 A responsive biography website showcasing my academic journey and professional aspirations
 
 ## 🌐 Live Demo
-[View Live Site](https://GAD-18.github.io/Gadworks/)  
+[View Live Site](https://GAD-18.github.io/gdansah/)  
 (GitHub Pages link - enable in repository settings)
 
 ## 🛠 Project Details
-- *GitHub*: [GAD-18/Gadworks](https://github.com/GAD-18/Gadworks)
+- *GitHub*: [GAD-18/Gadworks](https://github.com/GAD-18/gdansah)
 - *Main File*: Gadworks.html (primary biography page)
 - *Technologies*: HTML5, CSS3
 
